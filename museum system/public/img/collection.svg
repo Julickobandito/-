@@ -1,0 +1,28 @@
+<svg width="76" height="64" viewBox="0 0 76 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="6.31921" y="11.703" width="62.062" height="41.9831" rx="2.28169" stroke="#969BC8" stroke-width="2.73803"/>
+<mask id="path-2-inside-1_157_3712" fill="white">
+<rect x="12.3389" y="23.2871" width="12.7775" height="8.21408" rx="1.46028"/>
+</mask>
+<rect x="12.3389" y="23.2871" width="12.7775" height="8.21408" rx="1.46028" stroke="#969BC8" stroke-width="3.4" mask="url(#path-2-inside-1_157_3712)"/>
+<mask id="path-3-inside-2_157_3712" fill="white">
+<rect x="31.5049" y="23.2871" width="12.7775" height="8.21408" rx="1.46028"/>
+</mask>
+<rect x="31.5049" y="23.2871" width="12.7775" height="8.21408" rx="1.46028" stroke="#969BC8" stroke-width="3.4" mask="url(#path-3-inside-2_157_3712)"/>
+<mask id="path-4-inside-3_157_3712" fill="white">
+<rect x="50.6714" y="23.2871" width="12.7775" height="8.21408" rx="1.46028"/>
+</mask>
+<rect x="50.6714" y="23.2871" width="12.7775" height="8.21408" rx="1.46028" stroke="#969BC8" stroke-width="3.4" mask="url(#path-4-inside-3_157_3712)"/>
+<mask id="path-5-inside-4_157_3712" fill="white">
+<rect x="12.3389" y="37.8906" width="12.7775" height="8.21408" rx="1.46028"/>
+</mask>
+<rect x="12.3389" y="37.8906" width="12.7775" height="8.21408" rx="1.46028" stroke="#969BC8" stroke-width="3.4" mask="url(#path-5-inside-4_157_3712)"/>
+<mask id="path-6-inside-5_157_3712" fill="white">
+<rect x="31.5049" y="37.8906" width="12.7775" height="8.21408" rx="1.46028"/>
+</mask>
+<rect x="31.5049" y="37.8906" width="12.7775" height="8.21408" rx="1.46028" stroke="#969BC8" stroke-width="3.4" mask="url(#path-6-inside-5_157_3712)"/>
+<mask id="path-7-inside-6_157_3712" fill="white">
+<rect x="50.6714" y="37.8906" width="12.7775" height="8.21408" rx="1.46028"/>
+</mask>
+<rect x="50.6714" y="37.8906" width="12.7775" height="8.21408" rx="1.46028" stroke="#969BC8" stroke-width="3.4" mask="url(#path-7-inside-6_157_3712)"/>
+<path d="M66.9286 6.74265L68.5914 7.79496C68.8959 7.98782 69.2685 7.70273 69.1884 7.34218L68.7476 5.36332L70.2181 4.03012C70.4866 3.78695 70.3423 3.32578 69.9897 3.29643L68.0545 3.12454L67.2972 1.25469C67.161 0.915102 66.6962 0.915102 66.5599 1.25469L65.8027 3.12035L63.8674 3.29224C63.5148 3.32159 63.3706 3.78276 63.639 4.02592L65.1095 5.35913L64.6688 7.33798C64.5886 7.69854 64.9612 7.98362 65.2658 7.79077L66.9286 6.74265Z" fill="#969BC8"/>
+</svg>
